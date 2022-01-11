@@ -1,0 +1,67 @@
+{
+  "Studyboard": [
+    {
+      "title": "Study",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-06",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study2",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-26",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study3",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-16",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study4",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-12",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study5",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-02",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study6",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-01",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study7",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-09",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study8",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-03",
+      "comment": "댓글"
+    },
+    {
+      "title": "Study9",
+      "contents": "내용",
+      "writer": "글쓴이",
+      "time": "2022-01-02",
+      "comment": "댓글"
+    }
+  ]
+}
